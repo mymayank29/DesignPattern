@@ -1,0 +1,35 @@
+.basic-Container {
+    background-color: whitesmoke;
+}
+
+.basic-button{
+    color : white;
+    background-color: cornflowerblue;
+}
+
+.basic-header{
+    color : cornflowerblue
+}
+
+.basic-input{
+    border: 1px solid blue;
+}
+/*
+-------------------------------------------------------
+*/
+.dark-Container {
+    background-color: black;
+}
+
+.dark-button{
+    color : white;
+    background-color: red;
+}
+
+.dark-header{
+    color: red;
+}
+
+.dark-input{
+    border: 1px solid red;
+}
